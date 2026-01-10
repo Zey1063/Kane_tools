@@ -31,6 +31,6 @@
 
 <p>
 - Install <a href="https://www.python.org/downloads/">Python</a>
-- Windows 10 & 11 or +
+- Windows 10 & 11+
 </p>
 
