@@ -18,10 +18,10 @@
 <h1 align="center">Tools</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b30c3a17-5168-4513-9f4e-4b4b08207e10" width="50%"> 
-  <img src="https://github.com/user-attachments/assets/2b0aefd9-f1bc-4bfc-ba7a-ab73d4ec282c" width="50%"> 
-  <img src="https://github.com/user-attachments/assets/9ff0bd96-226e-4794-9a9e-e0198bef6bfe" width="50%">
-  <img src="https://github.com/user-attachments/assets/bd2f6ca9-18ef-4a0d-82fa-1409d4eabd15" width="50%">
+  <img src="https://github.com/user-attachments/assets/b30c3a17-5168-4513-9f4e-4b4b08207e10" width="49%"> 
+  <img src="https://github.com/user-attachments/assets/2b0aefd9-f1bc-4bfc-ba7a-ab73d4ec282c" width="49%"> 
+  <img src="https://github.com/user-attachments/assets/9ff0bd96-226e-4794-9a9e-e0198bef6bfe" width="49%">
+  <img src="https://github.com/user-attachments/assets/bd2f6ca9-18ef-4a0d-82fa-1409d4eabd15" width="49%">
 
 <p>
 
