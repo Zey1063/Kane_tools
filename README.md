@@ -9,7 +9,7 @@ Python-based tool by zey
 <h1 align="center">Multi-Tools</h1>
 
 <p align="center">
-   <a href="https://t.me/redtigersupport">Telegram</a> ・ <a href="https://guns.lol/zey1063">GunsLol</a> ・ <a href="https://www.trustpilot.com/review/redtiger.shop">Reviews</a>
+   <a href="https://t.me/kane_tools">Telegram</a> ・ <a href="https://guns.lol/zey1063">GunsLol</a>
 </p>
 
 <p align="center">
