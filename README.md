@@ -34,9 +34,13 @@
 - Windows 10 & 11+
 </p>
 
+<h1 align="center">Setup</h1>
+
+
 <h1 align="center">DISCLAIMER</h1>
 
 - This tool is for educational purposes only. Use at your own risk.
 - Kane is not liable for any damages or misuse.
 - Users must comply with all applicable laws and terms of service.
 - Unauthorized access or malicious use is prohibited.
+
