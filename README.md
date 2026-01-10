@@ -35,8 +35,7 @@
 </p>
 
 <h1 align="center">Setup</h1>
-[Download]
-(https://github.com/Zey1063/Kane_tools/releases/download/2.2.1/Kane-Multitool-2.2.1.rar)
+[Download](https://github.com/Zey1063/Kane_tools/releases/download/2.2.1/Kane-Multitool-2.2.1.rar)
 1. Download the .rar
 2. Extract/Unzip the folder
 3. Run Installation.py
