@@ -20,9 +20,11 @@
 <p align="center">
   <img src="" width="50%"> 
   <img src="https://github.com/user-attachments/assets/b30c3a17-5168-4513-9f4e-4b4b08207e10" width="50%"> 
-  <img src="https://imgur.com/wViSSNz" width="50%"> 
-  <img src="https://imgur.com/S5Pb2FS" width="50%">
+  <img src="https://github.com/user-attachments/assets/2b0aefd9-f1bc-4bfc-ba7a-ab73d4ec282c" width="50%"> 
+  <img src="https://github.com/user-attachments/assets/9ff0bd96-226e-4794-9a9e-e0198bef6bfe" width="50%">
+    <img src="https://github.com/user-attachments/assets/bd2f6ca9-18ef-4a0d-82fa-1409d4eabd15" width="50%">
 
 <p>
 
-<img width="1103" height="580" alt="Kane 1st page" src="https://github.com/user-attachments/assets/b30c3a17-5168-4513-9f4e-4b4b08207e10" />
+
+
