@@ -35,7 +35,10 @@
 </p>
 
 <h1 align="center">Setup</h1>
-
+[Download](https://github.com/Zey1063/Kane_tools/releases/download/2.2.1/Kane-Multitool-2.2.1.rar)
+1. Download the .rar
+2. Extract/Unzip the folder
+3. Run Installation.py
 
 <h1 align="center">DISCLAIMER</h1>
 
@@ -44,3 +47,8 @@
 - Users must comply with all applicable laws and terms of service.
 - Unauthorized access or malicious use is prohibited.
 
+<h1 align="center">Donation</h1>
+<strong>Btc Address:</strong>
+bc1qphxhtwhv6p5j4laar0yvrtrrxfmxj3xp4exkk3
+<strong>Eth Address:</strong>
+0x3b4011C723E8BAF673D626E2c830a191427ba0C4
