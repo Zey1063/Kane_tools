@@ -30,7 +30,7 @@
 <h3>Windows:</h3>
 
 <p>
-- Install <a href="https://www.python.org/downloads/">Python</a> with the <a href="Img/Python_Path.png">PATH</a> options.<br>
+- Install <a href="https://www.python.org/downloads/">Python</a>
 - Windows 10 & 11 or +
 </p>
 
