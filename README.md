@@ -1,6 +1,6 @@
 # Kane_tools
 
-<h1 align="center">Multi-Tools</h1>
+<h1 align="center">Multi-Tool</h1>
 
 <p align="center">
    <a href="https://t.me/kane_tools">Telegram</a> ・ <a href="https://guns.lol/zey1063">GunsLol</a>
