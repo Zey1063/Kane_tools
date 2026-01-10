@@ -18,9 +18,10 @@
 <h1 align="center">Tools</h1>
 
 <p align="center">
-  <img src="https://imgur.com/5tbS2PR" width="50%"> 
+  <img src="" width="50%"> 
   <img src="https://imgur.com/pCbMe6q" width="50%"> 
   <img src="https://imgur.com/wViSSNz" width="50%"> 
   <img src="https://imgur.com/S5Pb2FS" width="50%">
 
 <p>
+<img width="1103" height="580" alt="Kane 1st page" src="https://github.com/user-attachments/assets/04e0cf5f-7398-4cef-9cc9-647118e9de3b" />
