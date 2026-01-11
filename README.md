@@ -11,7 +11,7 @@
 - Contains no malware or backdoors
 - Source code is provided for verification purposes only to ensure the absence of malicious behavior
 - Free to use
-- Python-based tool by zey
+- Python-based tool
 
 </p>
 
