@@ -43,6 +43,10 @@
 
 3. Run Installation.py
 
+4. Video tut
+
+https://www.youtube.com/watch?v=CfXmByyc0mY
+
 <h1 align="center">DISCLAIMER</h1>
 
 - This tool is for educational purposes only. Use at your own risk.
